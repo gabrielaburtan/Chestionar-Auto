@@ -1,0 +1,79 @@
+C:\Documents and Settings\Admin\Desktop\Chestionar\bin\Debug\Chestionar.exe.config
+C:\Documents and Settings\Admin\Desktop\Chestionar\bin\Debug\Database1.mdf
+C:\Documents and Settings\Admin\Desktop\Chestionar\bin\Debug\Database1_log.ldf
+C:\Documents and Settings\Admin\Desktop\Chestionar\bin\Debug\Chestionar.exe
+C:\Documents and Settings\Admin\Desktop\Chestionar\bin\Debug\Chestionar.pdb
+C:\Documents and Settings\Admin\Desktop\Chestionar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\Chestionar\obj\x86\Debug\Chestionar.Form1.resources
+C:\Documents and Settings\Admin\Desktop\Chestionar\obj\x86\Debug\Chestionar.Form2.resources
+C:\Documents and Settings\Admin\Desktop\Chestionar\obj\x86\Debug\Chestionar.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\Chestionar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Desktop\Chestionar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Desktop\Chestionar\obj\x86\Debug\Chestionar.exe
+C:\Documents and Settings\Admin\Desktop\Chestionar\obj\x86\Debug\Chestionar.pdb
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\bin\Debug\Chestionar.exe.config
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.exe
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.pdb
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\bin\Debug\Database1.mdf
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\bin\Debug\Database1_log.ldf
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\bin\Debug\Chestionar.exe
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\bin\Debug\Chestionar.pdb
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form1.resources
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form2.resources
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\bin\Debug\intrebari.sdf
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form3.resources
+C:\Documents and Settings\Admin\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form4.resources
+C:\Users\elev\Desktop\Chestionar\Chestionar\bin\Debug\Chestionar.exe.config
+C:\Users\elev\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.exe
+C:\Users\elev\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.pdb
+C:\Users\elev\Desktop\Chestionar\Chestionar\bin\Debug\intrebari.sdf
+C:\Users\elev\Desktop\Chestionar\Chestionar\bin\Debug\chestionar.mdf
+C:\Users\elev\Desktop\Chestionar\Chestionar\bin\Debug\chestionar_log.ldf
+C:\Users\elev\Desktop\Chestionar\Chestionar\bin\Debug\Database1.mdf
+C:\Users\elev\Desktop\Chestionar\Chestionar\bin\Debug\Database1_log.ldf
+C:\Users\elev\Desktop\Chestionar\Chestionar\bin\Debug\Chestionar.exe
+C:\Users\elev\Desktop\Chestionar\Chestionar\bin\Debug\Chestionar.pdb
+C:\Users\elev\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form1.resources
+C:\Users\elev\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form2.resources
+C:\Users\elev\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form3.resources
+C:\Users\elev\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form4.resources
+C:\Users\elev\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Properties.Resources.resources
+C:\Users\elev\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\bin\Debug\Chestionar.exe.config
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\Chestionar.exe
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\Chestionar.pdb
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\bin\Debug\chestionar.mdf
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\bin\Debug\chestionar_log.ldf
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\bin\Debug\Chestionar.exe
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\bin\Debug\Chestionar.pdb
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form1.resources
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form2.resources
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form3.resources
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form4.resources
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form5.resources
+C:\Documents and Settings\Admin\Desktop\New Folder\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form6.resources
+C:\Users\burta\Desktop\Chestionar\Chestionar\bin\Debug\chestionar.mdf
+C:\Users\burta\Desktop\Chestionar\Chestionar\bin\Debug\chestionar_log.ldf
+C:\Users\burta\Desktop\Chestionar\Chestionar\bin\Debug\Chestionar.exe.config
+C:\Users\burta\Desktop\Chestionar\Chestionar\bin\Debug\Chestionar.exe
+C:\Users\burta\Desktop\Chestionar\Chestionar\bin\Debug\Chestionar.pdb
+C:\Users\burta\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.csprojAssemblyReference.cache
+C:\Users\burta\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form1.resources
+C:\Users\burta\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form2.resources
+C:\Users\burta\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form3.resources
+C:\Users\burta\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form4.resources
+C:\Users\burta\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form5.resources
+C:\Users\burta\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Form6.resources
+C:\Users\burta\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.Properties.Resources.resources
+C:\Users\burta\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.csproj.GenerateResource.cache
+C:\Users\burta\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.exe
+C:\Users\burta\Desktop\Chestionar\Chestionar\obj\x86\Debug\Chestionar.pdb
